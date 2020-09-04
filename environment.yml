@@ -1,0 +1,14 @@
+name: storage_benchmarks
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.8
+  - numpy
+  - pytables
+  - pandas
+  - tiledb-py
+  - matplotlib
+  - zarr
+  - xarray
+  - netCDF4
+  - ipykernel
