@@ -12,3 +12,5 @@ dependencies:
   - xarray
   - netCDF4
   - ipykernel
+  - google-cloud-storage
+  - gcfsf
