@@ -14,3 +14,5 @@ dependencies:
   - ipykernel
   - google-cloud-storage
   - gcfsf
+  - dask
+  - python-graphviz  # used for visualising dask graphs
