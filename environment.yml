@@ -13,6 +13,6 @@ dependencies:
   - netCDF4
   - ipykernel
   - google-cloud-storage
-  - gcfsf
+  - gcsfs
   - dask
   - python-graphviz  # used for visualising dask graphs
